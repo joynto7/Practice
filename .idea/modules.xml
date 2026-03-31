@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PaymentSystem/PaymentSystem.iml" filepath="$PROJECT_DIR$/PaymentSystem/PaymentSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Practice.iml" filepath="$PROJECT_DIR$/.idea/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmartClassroom/SmartClassroom.iml" filepath="$PROJECT_DIR$/SmartClassroom/SmartClassroom.iml" />
       <module fileurl="file://$PROJECT_DIR$/TransportBookingSystem/TransportBankingSystem.iml" filepath="$PROJECT_DIR$/TransportBookingSystem/TransportBankingSystem.iml" />
     </modules>
   </component>
