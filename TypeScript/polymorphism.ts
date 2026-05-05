@@ -16,4 +16,4 @@ class Student {
 
 const student1 = new Student( " mr. fakibaz",23,"Bangladesh");
 student1.getSleep(15);
-//console.log(student1);
+console.log(student1);
