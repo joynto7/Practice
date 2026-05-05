@@ -34,3 +34,11 @@ const Lily = new person(" Lily ",24,"Golden","India");
 Lily.getInfo();
 Lily.listenMusic();
 Lily.watchMovie();
+
+class normalPeople extends person{
+    getInfo(): void {
+        console.log(` they have on brain lower conciousness `);
+        
+    }
+}
+
